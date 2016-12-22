@@ -1,0 +1,26 @@
+{
+  "name": "climate-models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulstefanday/Climate-Models.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulstefanday/Climate-Models/issues"
+  },
+  "homepage": "https://github.com/paulstefanday/Climate-Models#readme",
+  "dependencies": {
+    "co-bcryptjs": "^0.2.0",
+    "lodash": "^4.17.2",
+    "randomstring": "^1.1.5",
+    "thinky": "^2.3.8",
+    "validator": "^6.2.0"
+  }
+}
